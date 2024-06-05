@@ -1,0 +1,28 @@
+.arkaplan{
+    display: flex;
+    width: 100px;
+    height: 600px;
+}
+.solkapi{
+    display: flex;
+    float: left;
+    z-index: 100;
+}
+.sagkapi{
+    display: flex;
+    margin-top: 200px ;
+}
+.solagac{
+    display: flex;
+    margin-top: 300px;
+}
+.sagagac{
+    display: flex;
+    margin-top: 700px;
+    margin-right: 800px;
+}
+.cim{
+    display: flex;
+    margin-top: 300px;
+    margin-right: 400px;
+}
